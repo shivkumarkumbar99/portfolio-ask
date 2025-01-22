@@ -84,6 +84,5 @@
     },
     "registeredAt": "2025-01-22T17:23:33.744Z",
     "registeredBy": "arn:aws:sts::382593064575:assumed-role/voclabs/user2872900=Kumbar",
-    "enableFaultInjection": false,
     "tags": []
 }
